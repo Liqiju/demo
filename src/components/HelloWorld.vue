@@ -144,7 +144,7 @@ vue被称为组件，那是因为一个vue文件由HTML、JS、CSS构成
 	export default {
 		data() {
 			return {
-        		msg: "欢迎访问图书管理系统",
+        		msg: "欢迎访问图书管理系统111",
 				edit_dialogVisible: false,
 				addbook_dialogVisible: false,
 				detail_dialogVisible: false,
